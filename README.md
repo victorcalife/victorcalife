@@ -35,25 +35,25 @@ Whether enabling business continuity, maturing service levels, or unlocking fast
 
 Explore my ecosystem of IT leadership practices — each repository represents a core pillar of operational and strategic excellence:
 
-### 🔹 [`it-governance-blueprint`](https://github.com/your-username/it-governance-blueprint)
+### 🔹 [`it-governance-blueprint`](https://github.com/victorcalife/it-governance-blueprint)
 📘 Models and frameworks to implement real-world IT governance using ITIL, COBIT, ISO, and Lean IT.  
 🔗 Incident workflows, change control, SLA matrix, service catalog, and governance principles.
 
 ---
 
-### 🔹 [`it-delivery-excellence`](https://github.com/your-username/it-delivery-excellence)
+### 🔹 [`it-delivery-excellence`](https://github.com/victorcalife/it-delivery-excellence)
 🚀 Processes and KPIs to ensure consistent value delivery in IT services.  
 🔗 SLA-driven operations, KPI dashboards, Tier support structure, escalation matrix, and continuous improvement.
 
 ---
 
-### 🔹 [`digital-asset-security`](https://github.com/your-username/digital-asset-security)
+### 🔹 [`digital-asset-security`](https://github.com/victorcalife/digital-asset-security)
 🔐 Best practices for protecting digital assets: IAM, business continuity (BCP), disaster recovery (DRP), and security governance.  
 🔗 Risk analysis, compliance guidance, and incident response structure.
 
 ---
 
-### 🔹 [`it-service-operations`](https://github.com/your-username/it-service-operations)
+### 🔹 [`it-service-operations`](https://github.com/victorcalife/it-service-operations)
 ⚙️ Actionable guide for designing and executing robust IT operations: tech support flows, problem management, RCA, and agile ops.  
 🔗 Prioritization strategies, productivity metrics, and real-world process flows.
 
