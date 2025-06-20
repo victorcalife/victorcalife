@@ -31,14 +31,35 @@ Whether enabling business continuity, maturing service levels, or unlocking fast
 
 ---
 
-## 🧱 Featured Repositories
+## 📚 Featured Repositories
 
-| Repository                                                                                      | Description                                                                                |
-|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [`it-governance-blueprint`](https://github.com/victorcalife/it-governance-blueprint)            | Frameworks, templates and practices to lead governance in real enterprise environments.    |
-| [`it-delivery-excellence`](https://github.com/victorcalife/it-delivery-excellence)              | Models for IT service quality, team routines, KPIs, and SLA-driven execution.              |
-| [`digital-asset-security`](https://github.com/victorcalife/digital-asset-security)              | Structured approach for protecting digital environments, access layers, and critical data. |
-| [`it-service-operations`](https://github.com/victorcalife/it-service-operations)                | End-to-end operations: incidents, RCA, process maturity, and operational playbooks.        |
+Explore my ecosystem of IT leadership practices — each repository represents a core pillar of operational and strategic excellence:
+
+### 🔹 [`it-governance-blueprint`](https://github.com/your-username/it-governance-blueprint)
+📘 Models and frameworks to implement real-world IT governance using ITIL, COBIT, ISO, and Lean IT.  
+🔗 Incident workflows, change control, SLA matrix, service catalog, and governance principles.
+
+---
+
+### 🔹 [`it-delivery-excellence`](https://github.com/your-username/it-delivery-excellence)
+🚀 Processes and KPIs to ensure consistent value delivery in IT services.  
+🔗 SLA-driven operations, KPI dashboards, Tier support structure, escalation matrix, and continuous improvement.
+
+---
+
+### 🔹 [`digital-asset-security`](https://github.com/your-username/digital-asset-security)
+🔐 Best practices for protecting digital assets: IAM, business continuity (BCP), disaster recovery (DRP), and security governance.  
+🔗 Risk analysis, compliance guidance, and incident response structure.
+
+---
+
+### 🔹 [`it-service-operations`](https://github.com/your-username/it-service-operations)
+⚙️ Actionable guide for designing and executing robust IT operations: tech support flows, problem management, RCA, and agile ops.  
+🔗 Prioritization strategies, productivity metrics, and real-world process flows.
+
+---
+
+> All repositories are built for practical use in complex, enterprise-level environments.
 
 ---
 
