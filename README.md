@@ -59,7 +59,7 @@ Explore my ecosystem of IT leadership practices — each repository represents a
 
 ---
 
-**All repositories are built for practical use in complex, enterprise-level environments.**
+- **All repositories are built for practical use in complex, enterprise-level environments.**
 
 ---
 
