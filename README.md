@@ -33,12 +33,12 @@ Whether enabling business continuity, maturing service levels, or unlocking fast
 
 ## 🧱 Featured Repositories
 
-| Repository                                                                           | Description                                                                                |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [`it-governance-blueprint`](https://github.com/victorcalife/it-governance-blueprint) | Frameworks, templates and practices to lead governance in real enterprise environments.    |
-| [`it-delivery-excellence`](https://github.com/victorcalife/it-delivery-excellence)   | Models for IT service quality, team routines, KPIs, and SLA-driven execution.              |
-| [`digital-asset-security`](https://github.com/victorcalife/digital-asset-security)   | Structured approach for protecting digital environments, access layers, and critical data. |
-| [`it-service-operations`](https://github.com/victorcalife/it-service-operations)     | End-to-end operations: incidents, RCA, process maturity, and operational playbooks.        |
+| Repository                                                                                      | Description                                                                                |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [`it-governance-blueprint`](https://github.com/victorcalife/it-governance-blueprint)            | Frameworks, templates and practices to lead governance in real enterprise environments.    |
+| [`it-delivery-excellence`](https://github.com/victorcalife/it-delivery-excellence)              | Models for IT service quality, team routines, KPIs, and SLA-driven execution.              |
+| [`digital-asset-security`](https://github.com/victorcalife/digital-asset-security)              | Structured approach for protecting digital environments, access layers, and critical data. |
+| [`it-service-operations`](https://github.com/victorcalife/it-service-operations)                | End-to-end operations: incidents, RCA, process maturity, and operational playbooks.        |
 
 ---
 
