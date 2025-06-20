@@ -48,6 +48,10 @@ Whether enabling business continuity, maturing service levels, or unlocking fast
 ![Delivery](https://img.shields.io/badge/Delivery-SLA%20Driven%20%7C%20KPIs-critical)
 ![Security](https://img.shields.io/badge/Security-IAM%20%7C%20BCP%20%7C%20DRP-blue)
 ![Ops](https://img.shields.io/badge/Ops-Incident%20%7C%20Support%20%7C%20RCA-blueviolet)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20CI%2FCD%20%7C%20DevOps-brightgreen)
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban%20%7C%20PO%2FCSM-orange)
+![Leadership](https://img.shields.io/badge/Leadership-Team%20Growth%20%7C%20Execution%20%7C%20Vision-red)
+![Architecture](https://img.shields.io/badge/Architecture-Enterprise%20%7C%20Process%20%7C%20Service-informational)
 ![Updated](https://img.shields.io/badge/Updated-Jun--2025-lightgrey)
 
 ---
